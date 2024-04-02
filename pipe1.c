@@ -1,6 +1,4 @@
 // C Program that illustrate communication between two process using unnamed pipes
-$ cat pipe1.c 
-#include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h> 
 #include<sys/stat.h> 
